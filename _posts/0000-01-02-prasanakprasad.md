@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Fly like a Fly, String like a Beamer
 Use the left arrow to go back!
